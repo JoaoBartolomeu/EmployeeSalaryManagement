@@ -22,7 +22,6 @@ public class Worker {
         this.departament = departament;
     }
 
-
     public void addContract(HourContract contract){
         contracts.add(contract);
     }
